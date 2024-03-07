@@ -1,0 +1,24 @@
+{
+  "customer": {
+    "customer_id": "789",
+    "name": "John Doe",
+    "email": "john.doe@example.com",
+    "address": "Nairobi"
+  },
+  "order_date": "2024-03-07T12:30:00",
+  "currency": "KES",
+  "order_items": [
+    {
+      "product_id": "ABC123",
+      "product_name": "Bread",
+      "quantity": 2,
+      "unit_price": 25
+    },
+    {
+      "product_id": "XYZ789",
+      "product_name": "Milk",
+      "quantity": 4,
+      "unit_price": 25
+    }
+  ]
+}
